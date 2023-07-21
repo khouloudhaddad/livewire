@@ -1,3 +1,3 @@
 <div>
-    HelloWorld component
+    HelloWorld {{ $name }}
 </div>
