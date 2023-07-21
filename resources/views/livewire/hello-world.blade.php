@@ -1,4 +1,4 @@
 <div>
-    <input type="text" wire:model="name">
-    HelloWorld {{ $name }}
+    <button type="button" wire:click="increment">Increment</button>
+    HelloWorld {{ $count }}
 </div>
