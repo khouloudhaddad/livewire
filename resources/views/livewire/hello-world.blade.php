@@ -1,0 +1,3 @@
+<div>
+    HelloWorld component
+</div>
